@@ -21,7 +21,7 @@ Company wants to understand the factors affecting the demand for these shared bi
 * How well those variables describe the bike demands
 
 ## Conclusions
-From above model, we can say that below variables are significant in predicting the demand for shared bikes.
+Using Multiple Linear Regression model and with feature elimination, we can say that below variables are significant in predicting the demand for shared bikes.
 Positive correlation of below variables:
 * yr                        
 * workingday                
