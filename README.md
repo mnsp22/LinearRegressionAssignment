@@ -1,5 +1,5 @@
 # Project Name
-> This is a Linear Regression Assignment
+> Bike Sharing Assignment
 
 
 ## Table of Contents
